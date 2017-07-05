@@ -15,7 +15,7 @@ It works on OSX or Linux.
 
 ### Prerequisites
 
-####External tools:
+###External tools:
 
 ```
 Virtual Box: https://www.virtualbox.org
@@ -37,7 +37,7 @@ Aapt: https://developer.android.com/studio/command-line/index.html
 Shield4J: http://shield4j.com
 ```
 
-####Python package:
+###Python package:
 
 ```
 numpy: http://www.numpy.org
@@ -59,7 +59,7 @@ matplotlib: https://matplotlib.org
 nolds: https://cschoel.github.io/nolds/nolds.html#
 ```
 
-####Data:
+###Data:
 
 ```
 Drebin Dataset: https://www.sec.cs.tu-bs.de/~danarp/drebin/
