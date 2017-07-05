@@ -1,4 +1,4 @@
-# Project Title
+# Android Malware Family Classification Based on Resource Consumption Metrics
 
 This project had been used for the paper: 
 "Android Malware Family Classification Based on Resource Consumption Metrics"
@@ -15,23 +15,55 @@ It works on OSX or Linux.
 
 ### Prerequisites
 
-External tools:
+####External tools:
 
+```
 Virtual Box: https://www.virtualbox.org
+```
+
+```
 Genymotion: https://www.genymotion.com
+```
+
+```
 Android Debug Bridge: https://developer.android.com/studio/command-line/adb.html
+```
+
+```
 Aapt: https://developer.android.com/studio/command-line/index.html
+```
+
+```
 Shield4J: http://shield4j.com
+```
 
-Python package:
+####Python package:
+
+```
 numpy: http://www.numpy.org
-scipy: http://scipy.org
-sklearn: http://scikit-learn.org/stable/
-matplotlib: https://matplotlib.org
-nolds: https://cschoel.github.io/nolds/nolds.html#
+```
 
-Data:
+```
+scipy: http://scipy.org
+```
+
+```
+sklearn: http://scikit-learn.org/stable/
+```
+
+```
+matplotlib: https://matplotlib.org
+```
+
+```
+nolds: https://cschoel.github.io/nolds/nolds.html#
+```
+
+####Data:
+
+```
 Drebin Dataset: https://www.sec.cs.tu-bs.de/~danarp/drebin/
+```
 
 
 ### Installing and Running
