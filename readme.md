@@ -1,4 +1,4 @@
-# Android Malware Family Classification Based on Resource Consumption Metrics
+# Android Malware Family Classification Based on Resource Consumption Metrics Over Time
 
 This project had been used for the paper: 
 "Android Malware Family Classification Based on Resource Consumption Metrics"
@@ -7,6 +7,8 @@ resources consumption metrics during the execution.
 It is provided also the code to extract features from collected data and to classify 
 malware using it.
 
+The file testedAPKList.txt contains SHA256 of all the apk that have been used in the 
+results of the paper.
 
 ## Getting Started
 
